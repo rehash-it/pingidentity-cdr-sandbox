@@ -1559,8 +1559,8 @@
                     "name": "ADR - Data In Selector",
                     "id": "ADRDataInSelector",
                     "pluginDescriptorRef": {
-                        "location": "https://localhost:9999/pf-admin-api/v1/idp/adapters/descriptors/com.pingidentity.ps.cdr.data.in.pf.DataHolderSelector",
-                        "id": "com.pingidentity.ps.cdr.data.in.pf.DataHolderSelector"
+                        "location": "https://localhost:9999/pf-admin-api/v1/idp/adapters/descriptors/com.pingidentity.tt.cdr.data.in.pf.DataHolderSelector",
+                        "id": "com.pingidentity.tt.cdr.data.in.pf.DataHolderSelector"
                     },
                     "attributeContract": {
                         "maskOgnlValues": false,

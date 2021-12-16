@@ -35,3 +35,4 @@ server_profiles/datarecipient/internal/config/aspsp.pingbank.properties
 server_profiles/datarecipient/internal/config/config
 server_profiles/pingaccess/instance/conf/pingaccess.lic
 server_profiles/pingfederate/instance/server/default/conf/pingfederate.lic
+server_profiles/pingfederate/instance/server/default/data
